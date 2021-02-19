@@ -9,7 +9,7 @@
     instance_type: t2.micro
     security_group: launch-wizard-5
     image: ami-0be057a22c63962cb
-    region: eu-west-2
+    region: us-east-1
     tagname: Name=TestServer
 
   tasks:
